@@ -271,3 +271,23 @@ AI 优化后的页面
 优化一些细节
 ![](./images/project/细节优化.png)
 
+
+
+### 完整的系统截图
+
+![列表页](./images/demo/list.png)
+
+![剧本生成](./images/demo/剧本生成.png)
+
+![角色解析](./images/demo/角色解析.png)
+
+![分镜](./images/demo/分镜.png)
+
+![预览](./images/demo/预览.png)
+
+![模型配置](./images/demo/模型配置.png)
+
+
+### Demo
+
+<video src="https://ladr-1258957911.cos.ap-guangzhou.myqcloud.com/jadeai/demo1.mp4" controls width="100%"></video>
