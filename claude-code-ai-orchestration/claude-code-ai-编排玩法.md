@@ -133,8 +133,6 @@ if (assistantMessage.hasToolCalls()) {
 
 **效果**：项目成功启动
 
-![Spring 项目启动成功](screenshots/05_spring_started.png)
-
 > **核心原则**：当 Claude Code 在错误中打转时，不要让它继续猜，给它权威文档。
 
 ---
@@ -142,8 +140,6 @@ if (assistantMessage.hasToolCalls()) {
 ## 玩法五：功能测试 → 发现问题 → 继续修复
 
 项目启动后测试功能，发现新问题后继续提需求文档。
-
-![功能测试结果](screenshots/06_function_test.png)
 
 测试驱动的迭代流程：
 1. 用 curl / Swagger 测试 API
@@ -199,8 +195,6 @@ ai-sdk 流式协议格式：
 参考如下要求，对工具进行动态组装。因为工具列表来自数据库，
 后台添加工具后，每一次对话需要实时获取工具加入对话。
 ```
-
-![MCP ToolCallback 疑难](screenshots/09_mcp_toolcall_difficult.png)
 
 ### 阶段 2：发现 Spring AI 无法实现动态工具加载，换方案
 

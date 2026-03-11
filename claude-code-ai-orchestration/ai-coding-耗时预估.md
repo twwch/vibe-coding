@@ -6,8 +6,6 @@
 
 ## 数据总览
 
-![各需求工时对比表](ai-coding-screenshots/01_time_estimation_table.png)
-
 > 绿色行 = 使用 AI 辅助生产的需求（Trae Solo 生产需求文档）
 
 ---
