@@ -31,6 +31,9 @@ Karpathy 原话：
 3. **迭代阶段**：截图 + 自然语言反馈，AI 理解上下文后自动修复和优化
 4. **UI 优化阶段**：一句话指令触发 UI/UX 重新设计
 
+本次实践的代码地址：https://github.com/twwch/AIComicBuilder
+
+
 ## 需要安装的 Skills
 
 ### 1. superpowers
@@ -147,8 +150,7 @@ Karpathy 原话：
 
 最终生成的文件
 
-TODO： 补充仓库的链接
-
+[技术选型和系统设计](https://github.com/twwch/AIComicBuilder/blob/main/docs/superpowers/specs/2026-03-10-ai-comic-builder-design.md)
 
 
 ### AI开发
@@ -172,7 +174,7 @@ AI 会帮我们生成一个很完整的执行计划
 
 这是他最后生成的执行计划，里面包含代码
 
-TODO: 补充 GitHub 项目链接
+[执行计划](https://github.com/twwch/AIComicBuilder/blob/main/docs/superpowers/plans/2026-03-10-ai-comic-builder.md)
 
 
 加载`superpowers:subagent-driven-development`开始开发
