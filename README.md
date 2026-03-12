@@ -290,6 +290,11 @@ AI 优化后的页面
 
 ### Demo
 
-https://ladr-1258957911.cos.ap-guangzhou.myqcloud.com/jadeai/demo1.mp4
 
-<video src="https://ladr-1258957911.cos.ap-guangzhou.myqcloud.com/jadeai/demo1.mp4" controls width="100%"></video>
+https://ladr-1258957911.cos.ap-guangzhou.myqcloud.com/vibe-coding/images/demo1.mp4
+
+https://ladr-1258957911.cos.ap-guangzhou.myqcloud.com/vibe-coding/images/%E6%8B%B3%E5%87%BB%E6%AF%94%E8%B5%9B-final.mp4
+
+<video src="https://ladr-1258957911.cos.ap-guangzhou.myqcloud.com/vibe-coding/images/demo1.mp4" controls width="100%"></video>
+
+<video src="https://ladr-1258957911.cos.ap-guangzhou.myqcloud.com/vibe-coding/images/%E6%8B%B3%E5%87%BB%E6%AF%94%E8%B5%9B-final.mp4" controls width="100%"></video>
