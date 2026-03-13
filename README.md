@@ -122,6 +122,11 @@ Karpathy 原话：
 ![](images/skills/installed.png)
 
 
+## 开启agent team模式
+
+![](images/project/agent-teams.png)
+
+
 ## 项目初始化
 
 本次演示， 从 0 开发一个 AI 漫剧生成平台
@@ -271,6 +276,12 @@ AI 优化后的页面
 优化一些细节
 ![](./images/project/细节优化.png)
 
+
+### 功能迭代
+
+![](./images/project/功能迭代1-用户隔离.png)
+
+![](./images/project/功能迭代2-模型点击拦截.png)
 
 
 ### 完整的系统截图
