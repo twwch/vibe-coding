@@ -1,8 +1,7 @@
 # vibe-coding
 
-添加飞书群：
-
-![飞书群](images/lark-chat.png)
+## 社区支持
+[https://linux.do/](https://linux.do/)
 
 本项目用于记录我的 AI 编程过程
 - 使用的工具 claude code
@@ -324,12 +323,23 @@ Veo 模型接入
 
 
 ### Demo
+https://www.bilibili.com/video/BV19rwVzUEeD/
+
+https://www.bilibili.com/video/BV1RrwVzUE3x/
+
+https://www.bilibili.com/video/BV15rwVzSEKZ/
+
+https://www.bilibili.com/video/BV15kwiz7E6Q/
+
+https://www.bilibili.com/video/BV1hTw1zAEgY/
+
+最新版生成
+
+《拳魂·最后一回合》-seedance1.5
+
+《拳魂·最后一回合》-seedance2
 
 
-https://ladr-1258957911.cos.ap-guangzhou.myqcloud.com/vibe-coding/images/demo1.mp4
+添加飞书群：
 
-https://ladr-1258957911.cos.ap-guangzhou.myqcloud.com/vibe-coding/images/%E6%8B%B3%E5%87%BB%E6%AF%94%E8%B5%9B-final.mp4
-
-<video src="https://ladr-1258957911.cos.ap-guangzhou.myqcloud.com/vibe-coding/images/demo1.mp4" controls width="100%"></video>
-
-<video src="https://ladr-1258957911.cos.ap-guangzhou.myqcloud.com/vibe-coding/images/%E6%8B%B3%E5%87%BB%E6%AF%94%E8%B5%9B-final.mp4" controls width="100%"></video>
+![飞书群](images/lark-chat.png)
