@@ -7,11 +7,6 @@
 
 - 使用的工具 claude code
 
-添加飞书群：
-
-![飞书群](images/lark-chat.png)
-
-
 AI 时代下的编程：**文档为王**
 
 ## 什么是 Vibe Coding？
